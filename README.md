@@ -1,45 +1,64 @@
-[![Less Than Jake — Scott Farcas Takes It On The Chin](https://raw.githubusercontent.com/forhadhossen1/forhadhossen1/main/github%20banner.png)]([profile.php?id=100085288886971](https://www.facebook.com/profile.php?id=100085288886971))
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://raw.githubusercontent.com/forhadhossen1/forhadhossen1/main/github%20banner.png)](profile.php?id=100085288886971)
 
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **Personal Project**
+ 
+ 🌱 I’m currently learning **Advance level**
 
-### Hi there 👋
+ 👯 I’m looking **To collaborate on open source projects**
 
-Here are some ideas to get you started:
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Fun fact **I love coding**
 
-
-
-<h1 style="text-align: center; border-bottom: 4px solid black;margin-top: 100px">Connect with me:</h1>
-
-<div style="text-align: center; padding-top: 20px;" >
-  <a href="https://www.linkedin.com/in/forhadhossen/" target="_blank" style="display: inline-block; background-color: white; padding: 5px 10px; margin-right: 20px; border-radius: 7px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 5px;" /><b>LinkedIn</b>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:mr.forhad1030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100085288886971" target="_blank" style="display: inline-block; background-color: white; padding: 5px 10px; margin-right: 20px; border-radius: 7px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="margin-right: 5px;" /><b>Facebook</b>
+  <a href="https://www.linkedin.com/in/forhadhossen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank" style="display: inline-block; background-color: white; padding: 5px 10px; margin-right: 20px; border-radius: 7px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 5px;" /><b>Instagram</b>
-  </a>
-  <a href="https://twitter.com/your_twitter_username/" target="_blank" style="display: inline-block; background-color: white; padding: 5px 10px; border-radius: 7px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right: 5px;" /><b>Twitter</b>
-  </a>
+  
+
+<a href="https://www.facebook.com/profile.php?id=100085288886971" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+</a>
+
+</div>
+ <hr/>
+ 
+<h2 align="center">⚒️ Technologies that I know ⚒️</h2>
+<br/>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,tailwind,bootstrap,mui,git,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
 </div>
 
+<br/>
+<hr/>
 
+<div align="center">
 
-<h1 style="text-align: center; border-bottom: 4px solid black; margin-top: 100px">Technologies that I know</h1>
+ <h2 align="center">⚡ Stats ⚡</h2>
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=forhadhossen1&theme=tokyonight-duo&border_radius=4.6" alt="GitHub Streak" /></a>
 
-<p style="text-align: center; padding-top: 20px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,git,firebase,nodejs,express,mongodb," />
-  </a>
-</p>
+  <br/>
+
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=forhadhossen1&show_icons=true&theme=radical)
+<br/>
+</div>
+
+<div align=center>
+  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=forhadhossen1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+<br/><br/>
+<hr/>
+<br/>
+<br/>
