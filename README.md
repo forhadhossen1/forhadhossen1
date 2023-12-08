@@ -1,6 +1,7 @@
 [![Less Than Jake — Scott Farcas Takes It On The Chin](https://raw.githubusercontent.com/forhadhossen1/forhadhossen1/main/github%20banner.png)](profile.php?id=100085288886971)
 
-
+<br/>
+<br/>
 <div align="center">
  
  🔭 I’m currently working on **Personal Project**
@@ -14,6 +15,9 @@
 ⚡ Fun fact **I love coding**
 
  </div>
+
+ <br/>
+<br/>
  
 <div align="center"> 
   <a href="mailto:mr.forhad1030@gmail.com">
@@ -23,6 +27,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
+<br/>
+<br/>
 
 <a href="https://www.facebook.com/profile.php?id=100085288886971" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
@@ -48,6 +54,7 @@
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=forhadhossen1&theme=tokyonight-duo&border_radius=4.6" alt="GitHub Streak" /></a>
 
+  <br/>
   <br/>
 
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=forhadhossen1&show_icons=true&theme=radical)
