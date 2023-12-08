@@ -10,7 +10,7 @@
 
  👯 I’m looking **To collaborate on open source projects**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here]**
 
 ⚡ Fun fact **I love coding**
 
