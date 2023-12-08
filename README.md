@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<h1 style="text-align: center; border-bottom: 2px solid black;padding-top: 20px">Connect with me:</h1>
+<h1 style="text-align: center; border-bottom: 4px solid black; margin-top: 20px">Connect with me:</h1>
 
 <div style="text-align: center padding-top: 20px;" >
   <a href="https://www.linkedin.com/in/forhadhossen/" target="_blank" style="display: inline-block; background-color: white; padding: 5px 10px; margin-right: 20px; border-radius: 7px;">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 style="text-align: center; border-bottom: 2px solid black; padding-top: 20px">Technologies that I know</h1>
+<h1 align:"center" style=" border-bottom: 4px solid black; margin-top: 20px">Technologies that I know</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
